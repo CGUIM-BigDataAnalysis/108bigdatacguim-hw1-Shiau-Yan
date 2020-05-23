@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590260139174.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1256944652",
+    "id" : "238CF6AA",
+    "lastKnownWriteTime" : 1590262098,
+    "last_content_update" : 1590262098234,
+    "path" : "~/GitHub/108bigdatacguim-hw1-Shiau-Yan/SalaryAnalysis.Rmd",
+    "project_path" : "SalaryAnalysis.Rmd",
+    "properties" : {
+        "cursorPosition" : "102,0",
+        "scrollLine" : "96"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
